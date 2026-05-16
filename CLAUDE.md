@@ -1,4 +1,4 @@
-# CLAUDE.md — claude-status
+# CLAUDE.md — claude-api-status-tui
 
 TUI dashboard that monitors Claude Code and Claude API health from the official statuspage.
 
