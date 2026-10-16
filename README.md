@@ -28,3 +28,7 @@ Press `q` to quit.
 ## Data
 
 Poll history stored at `~/.local/share/claude-status/history.json` (NDJSON, one record per line).
+
+## License
+
+MIT. See [LICENSE](LICENSE).
